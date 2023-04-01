@@ -1,14 +1,18 @@
 # Name: Pihole Blocklist
 # URL: https://github.com/agvozden/pihole
-# Last update: 19 January, 2022
+# Last update: 01 April, 2023
 
-aklamator.com
-midas-network.com
 adform.net
+aklamator.com
+clarity.ms
 dotmetrics.net
+img-a2.com	
 livehotty.com
-povezano.com
-x1sfjakd.world
-monadplug.com
 mgid.com
+midas-network.com
+monadplug.com
+povezano.com
+rubiconproject.com	
 sharemedia.rs
+sofascore.com	
+x1sfjakd.world
